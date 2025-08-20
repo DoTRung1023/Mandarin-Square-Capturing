@@ -1,0 +1,31 @@
+2 PLAYERS MODE
+SETUP
+Each player has ten citizen pieces in the Mandarin square & five citizen pieces in each of the rice field squares. 
+The Mandarin squares are black squares, and the rice field squares are in red and blue. In this game, the numbers of 
+citizens are indicated by numbers instead of rocks. 
+SCATTERING
+1. First, 2 players choose who is red and who is blue. Then, they must choose who to go first.
+2. The first player takes up all the pieces of any rice field square on his/her side of the board (b2-left).
+3. Distributes one piece for each square, starting at the next square in either direction.
+4. When all pieces are distributed, the player repeats by taking up the pieces of the following square (r4) and 
+distributing them in the same direction (left-the direction change because blue square to the left is equal to the 
+red square to the right).
+CAPTURING
+5. When the next square to be distributed is empty (b2), the player wins all the pieces in the square after that
+(b1) and take them out of the table.
+* When the square next to the won square (b3) is empty (b2), the player also wins the all the pieces in the square
+after that (b1).
+** Similarly, when the last piece is distributed in the Mandarin square (on the right), the following squares are
+empty (b5, b3, b1 and r1), the player can take all the citizens in the b4, b2 and r2)
+PASSING
+You will lose your turn and the other player can start in the following cases:
+6. Your next distribution is the Mandarin Square (have pieces or not).
+7. Or your next distribution turn are two empty squares.
+DISPATCHING
+If there is no left citizen piece in a player’s side of the board, they must use five previously-won pieces to place
+one piece in each square on their side before starting their turn. (If they do not possess enough pieces, they must
+borrow the remaining from the other player and return it when counting the points at the end of the game.)
+WINNING
+The game ends when all the pieces are captured. Whichever player has more pieces is the winner.
+Or if both Mandarin pieces are captured, the remaining citizen pieces belong to the player controlling the side that
+these pieces are on.

@@ -1,0 +1,12 @@
++ In this game, player uses command window to play. 
++ When the game starts, the board appears on the screen with on side of blue square and another one is red. 
++ The name of square is plotted on the bottom left in the square. 
++ The current points of players are indicated on the top. 
++ When player starts their turn, they are prompted to type a valid square name with more than zero citizen 
+and then, type the direction they want to distribute. 
++ The citizens are automatically distributed and stop with a comment in the command window. 
++ There is an arrow pointing to the square after the last distribution and the direction (except for back squares
+because player cannot capture when the next square is a Mandarin Square).
++ There will be comment sentences in the command window and player just need to enter to continue. 
++ If you forget anything, just scroll up can read the instruction again. 
++ Now, it's time to play.
